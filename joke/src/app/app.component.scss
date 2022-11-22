@@ -1,0 +1,43 @@
+.cont {
+    color:white;
+    background-color: #911edd;
+    padding: 50px 0;
+}
+
+.cont p {
+    color:#c4d5ef;
+}
+
+.cont h1 {
+    margin-bottom: 25px;
+    opacity: 0.9;
+}
+
+.cont .intro {
+    font-size: 16px;
+    max-width: 500px;
+    margin: 0 auto 25px;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.cont .buttons .btn {
+    padding: 14px 24px;
+    margin: 6px;
+    border: none;
+    opacity: 0.8;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 13px;
+    letter-spacing: 2px;
+    line-height: 0.5;
+    border:2px solid rgba(255,255,255,0.7);
+    color: #ebeff1;
+    background-color: transparent;
+}
+
+.cont .buttons .btn:hover{
+    opacity: 1;
+}
